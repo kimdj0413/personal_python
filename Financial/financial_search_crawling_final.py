@@ -9,7 +9,7 @@ import os
 import random
 from openpyxl import load_workbook
 from openpyxl.styles import Alignment
-
+#git
 while True:   
     #서두
     print("="*50)
